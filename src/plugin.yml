@@ -1,0 +1,13 @@
+name: uTrade
+main: me.HariboPenguin.uTrade.uTrade
+version: 1.0
+author: HariboPenguin
+description: Private trading plugin
+depend: [iConomy]
+commands:
+  offer:
+    description: Offer a player an item
+    usage: /offer [Player] [Item] [Amount] [Price]
+  utrade:
+    description: uTrade commands
+    usage: /utrade help
